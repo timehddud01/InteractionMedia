@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\user\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\user\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\KDY\\25-2\\Interaction\\ArduinoCode\\InteractionMedia\\HeartPulseSensor"
+}
